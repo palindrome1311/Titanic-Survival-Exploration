@@ -1,5 +1,4 @@
 # Machine Learning
-## Introduction and Foundations
 ## Project: Titanic Survival Exploration
 
 ### Install
@@ -50,5 +49,4 @@ The dataset used in this project is included as `titanic_data.csv`. This dataset
 - `embarked` : Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton)
 
 **Target Variable**
-
 - `survival` : Survival (0 = No; 1 = Yes)
